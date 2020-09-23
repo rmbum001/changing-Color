@@ -1,0 +1,27 @@
+.nav-center{
+    position: sticky;
+    top: 0;
+    height: 60px;
+    width:100%;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+.btn-hero{
+    position: center;
+}
+.nav-links  {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    display: block;
+    list-style-type: none;
+    zoom: 1;
+}
+.nav-links li{
+    position: relative;
+    padding-left: 11px;
+}
+.nav{
+    text-align: center;
+}
